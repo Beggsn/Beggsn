@@ -37,8 +37,7 @@ console.log("Feel free to reach out to me with any questions or just to chat. Le
 ---
 - 📫 How to reach me:
 - 📨 berkant.cetin.berlin@icloud.com
-- LinkedIn
-- Twitter
+
 <!--
 - I'm Berkant Cetin, a passionate Application Development Specialist
 - I ❤️ stunning websites
