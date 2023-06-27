@@ -49,8 +49,7 @@ console.log("Feel free to reach out to me with any questions or just to chat. Le
 ---
 - 📫 How to reach me:
 - 📨 berkant.cetin.berlin@icloud.com
-- LinkedIn
-- Twitter
+
 
 **Beggsn/Beggsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
