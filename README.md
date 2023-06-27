@@ -1,7 +1,5 @@
 ### About me 😶‍🌫️
 
-- Currently learning at @coding-bootcamps-eu
-
 ```javascript
 // Definition of the variables
 let name = "Berkant Cetin";
