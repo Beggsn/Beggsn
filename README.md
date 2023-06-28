@@ -34,9 +34,7 @@ console.log(`${learning} and my goal is to ${goal}.`);
 console.log("Feel free to reach out to me with any questions or just to chat. Let's make the web awesome!");
 
 ```
----
-- 📫 How to reach me:
-- 📨 berkant.cetin.berlin@icloud.com
+
 
 <!--
 - I'm Berkant Cetin, a passionate Application Development Specialist
